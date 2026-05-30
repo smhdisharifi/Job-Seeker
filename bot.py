@@ -63,6 +63,24 @@ BLACKLIST_KEYWORDS = [
     "Junior",
     "director",
     "agency",
+# موقعیت‌های ارشد
+	"manager",
+	"lead",
+	"head of",
+	"vp of",
+	"vice president",
+
+# محدودیت جغرافیایی
+	"uk only",
+	"europe only", 
+	"australia only",
+	"must be based in",
+
+# نوع قرارداد نامناسب
+	"unpaid",
+	"internship",
+	"volunteer",
+	"commission only",
 ]
 
 # ══════════════════════════════════════════════════════════════════════════════
