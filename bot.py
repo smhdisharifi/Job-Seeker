@@ -37,24 +37,32 @@ MAX_JOBS_PER_RUN  = 15     # حداکثر آگهی ارسالی در هر اجر
 
 # ─── کلمات جستجو ──────────────────────────────────────────────────────────────
 SEARCH_QUERIES = [
-    "Junior SEO remote",
-    "Technical SEO remote",
-    "SEO Content Editor remote",
-    "SEO Python remote",
-    "WordPress SEO Specialist remote",
+#   "Senior Network Specialist Remote via linkedin",
+#	"Senior Network Specialist On-site via linkedin",
+    "Senior Network Specialist Hybrid via linkedin",
+#   "Senior Network Engineer Remote via linkedin",
+#	"Senior Network Engineer On-site via linkedin",
+    "Senior Network Engineer Hybrid via linkedin",
+#	"Senior Networking Engineer Remote via linkedin",
+#	"Senior Networking Engineer On-site via linkedin",
+    "Senior Networking Engineer Hybrid via linkedin",
+#	"IT Network Specialist Remote via linkedin",
+#	"IT Network Specialist On-site via linkedin",
+	"IT Network Specialist Hybrid via linkedin",
+#   "Network Engineer Remote via linkedin",
+#	"Network Engineer On-site via linkedin",
+	"Network Engineer Hybrid via linkedin",
 ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
 BLACKLIST_KEYWORDS = [
-    "us residents only",
-    "must reside in us",
-    "must be located in the us",
+    "residents only",
+    "must resident in",
+    "must be located in the",
     "must be based in",
-    "senior",
+    "Junior",
     "director",
     "agency",
-    "full stack",
-    "fullstack",
 ]
 
 # ══════════════════════════════════════════════════════════════════════════════
